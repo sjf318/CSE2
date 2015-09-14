@@ -1,3 +1,12 @@
+//Sam Forman
+// HW 2
+//hw02
+//
+// first compile the program
+//     javac hw02.java
+// run the program
+//     java hw02.java//
+
 public class hw02{
     
     //add a method

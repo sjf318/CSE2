@@ -9,7 +9,7 @@
 
 // define a class
 import java.util.Scanner;
-// Document your program. Place your comments here!
+//
 //
 //
 public class lab03{
